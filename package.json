@@ -6,16 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/burnYourBrain/crud-Application.git"
-  },
-  "author": "davi mattos",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/burnYourBrain/crud-Application/issues"
-  },
-  "homepage": "https://github.com/burnYourBrain/crud-Application#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
